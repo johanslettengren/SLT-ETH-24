@@ -1,4 +1,4 @@
-This repository displays my solutions to the coding exercises within the course "Statistical Learning Theory" at ETH Zürich, spring 2024. A compilation of the topics is found below.
+This repository displays my solutions to the coding exercises within the course "Statistical Learning Theory" at ETH Zürich, spring 2024. A compilation of the assignments is found below.
 
 | # | Topic | Description |
 |--------------|-------|-------------|
