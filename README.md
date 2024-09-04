@@ -2,4 +2,6 @@ This repository displays my solutions to the coding exercises within the course 
 
 | # | Topic | Description |
 |--------------|-------|-------------|
-| 1| Sampling | MCMC-based simulating algrotihms (Metropolis algorithm and simulated annealing) applied to image recunstruction problem (via Ising model) and travelling salesman problem. |
+| 1 | Sampling | MCMC-based simulating algrotihms (Metropolis algorithm and simulated annealing) applied to image recunstruction problem (via Ising model) and travelling salesman problem. |
+| 2 | Histogram clustering | Unsupervised image segmentation using histrogram clustering, akin to https://ieeexplore.ieee.org/document/784981 |
+ 
